@@ -1,0 +1,11 @@
+.item img{
+    border-radius: 10px;
+}
+.search-recipe{
+    text-align: center;
+}
+.search-recipe input{
+    border-radius: 5px;
+    border:1px solid #000;
+    padding-left: 10px;
+}
